@@ -21,6 +21,17 @@ public class Invoice {
         }else{this.price = 0.0;}
 
     }
+    // Constuctor solucion Student Portal
+//    public Invoice(String pNum, String pDesc, int qty, double prc) {
+//        if (pNum != null) partNumber = pNum;
+//        else partNumber = "0";
+//        if (pDesc != null) partDescription = pDesc;
+//        else partDescription = "0";
+//        if (qty > 0) quantity = qty;
+//        else quantity = 0;
+//        if (prc > 0.0) price = prc;
+//        else price = 0;
+//    }
 
 
     //Metodos
